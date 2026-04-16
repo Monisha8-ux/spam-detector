@@ -4,8 +4,7 @@ A machine learning-based web application that classifies messages as Spam or Not
 
 🚀 Live Demo
 
-👉 (Add your Streamlit link here once deployed)
-Example:(https://nmufajtsyiauverkmsgfxq.streamlit.app/)
+👉(https://nmufajtsyiauverkmsgfxq.streamlit.app/)
 
 📌 Project Overview
 
